@@ -1245,6 +1245,7 @@ p.form-messege{
 }
  .single_feature2:hover .witr_feature2_icon{
      opacity:8%;
+     
 }
  .witr_feature2_icon i {
      font-size: 150px;
@@ -11447,6 +11448,7 @@ p.form-messege{
      background: var(--primary-color);
      padding: 65px 24px;
      margin-bottom:30px;
+     margin-left: 15px;
 }
  .serivce_bg .witr_feature2:hover {
      background: #00247E;
